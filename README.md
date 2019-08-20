@@ -13,7 +13,7 @@
 ### 引用
 
 ```
-composer require maiyoule/aliyun-openapi-php-sdk
+composer require maiyoule/aliyun-openapi-php-sdk:v1.0.1
 ```
 
 ### 使用
